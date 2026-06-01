@@ -16,7 +16,7 @@ st.markdown("Upload an image and it will predict if it's a **Dog** or **Cat**!")
 st.divider()
 
 # ── API URL ────────────────────────────────
-API_URL = "http://localhost:8000" 
+API_URL = "http://0.0.0.0:8000"
 # API_URL = "http://localhost:8000" # change after deploying backend
 
 # ── Upload Image ───────────────────────────
