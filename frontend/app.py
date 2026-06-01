@@ -19,10 +19,10 @@ st.divider()
 
 # ── API URL ────────────────────────────────
 
-API_URL = "https://dog-cat-7ijt.onrender.com"
+# API_URL = "https://dog-cat-7ijt.onrender.com"
 
 
-# API_URL = "http://localhost:8000" 
+API_URL = "http://localhost:8000" 
 # 
 # # change after deploying backend
 
